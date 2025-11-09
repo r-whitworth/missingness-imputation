@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Output
+figures/*.png
+figures/*.pdf
+data/*.csv
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
