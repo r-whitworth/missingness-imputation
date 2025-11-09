@@ -1,0 +1,14 @@
+name: hmda-missingness
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas=2.2
+  - scikit-learn=1.5
+  - matplotlib=3.9
+  - seaborn=0.13
+  - pip
+  - pip:
+      - tqdm>=4.66
+      - pyarrow>=17.0
