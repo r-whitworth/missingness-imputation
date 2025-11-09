@@ -24,3 +24,6 @@ data/*.csv
 *.bbl
 *.blg
 *.synctex.gz
+
+data/*
+!data/README.md
