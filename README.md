@@ -67,7 +67,7 @@ Experiments were run on macOS (Apple Silicon) under Python 3.11.
 **Recreate with Conda**
 ```bash
 conda env create -f environment.yml
-conda activate hmda-missingness
+conda activate Missingness_Imputation
 ```
 **or with pip**
 ```
