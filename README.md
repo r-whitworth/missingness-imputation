@@ -43,11 +43,11 @@ See the paper's "Practical Implications" section (p. 14) for details.
 ## Repository structure
 ```
 missingness-imputation/
-├── hmda_missingness.py       # Main experiment script (all Monte Carlo runs)
-├── results/                  # Generated CSV outputs (tables, metrics)
-├── figures/                  # Auto-generated AUC and mechanism panels
-├── environment.yml           # Conda environment for reproducibility
-├── requirements.txt          # pip dependencies
+├── Missingness_Imputation.py       # Main experiment script (all Monte Carlo runs)
+├── results/                        # Generated CSV outputs (tables, metrics)
+├── figures/                        # Auto-generated AUC and mechanism panels
+├── environment.yml                 # Conda environment for reproducibility
+├── requirements.txt                # pip dependencies
 ├── README.md
 └── LICENSE
 ```
