@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
-
 #!/usr/bin/env python3
 """
 hmda_missingness_monte.py
@@ -523,10 +517,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
 
 
